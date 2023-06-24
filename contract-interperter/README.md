@@ -1,4 +1,4 @@
-# Smart contract interper with Rust
+# Smart contract interpreter with Rust
 
 This repository contains the codes and the contents for [createlang.rs](https://github.com/ehsanmok/create-your-own-lang-with-rust)
 
